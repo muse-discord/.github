@@ -45,8 +45,6 @@ Want music on your server? Muse is here! It's your new music bot that plays ever
 - **Community Support:** Join our vibrant community and get support whenever you need it.
 - **Regular Updates:** We continuously improve and add new features to elevate your music experience.
 
-Muse is constantly being developed with regular updates to always provide new features and improvements. Our support team responds quickly to resolve any issues.
-
 ### 📍 How to get started?
 
 1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242)
