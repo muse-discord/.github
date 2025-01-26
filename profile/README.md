@@ -9,7 +9,7 @@
 <h3 align="center">Muse</h3>
 
   <p align="center">
-    Discover the transparent sound!
+    Discover the transparent sound! ♪
     <br />Your music, Your server, Your vibe.
     <br />
     <br />
@@ -21,23 +21,37 @@
 
 <hr>
 
-### <img src="https://musebot.pro/Logotype_small.png" alt="Logo" width="20" height="20"> New music bot - Muse!
+### <img src="https://musebot.pro/Logotype_small.png" alt="Logo" width="20" height="20"> Best Music Bot – Your Ultimate Music Companion
+
+Welcome to Muse - the premier music bot for Discord servers, providing exceptional sound quality and an array of powerful features to enhance your listening experience.
 
 Want music on your server? Muse is here! It's your new music bot that plays everything you like. The commands are simple and clear - everyone will understand them. It plays music in the highest quality you've never seen from any bot before. Muse is online 24/7, so you'll never have your music enjoyment interrupted!
 
-### 🎶 Why choose Muse?
+### 💎 Key Features:
 
-- High quality sound.
-- Comprehensive support for various music services.
-- Easy to use commands.
-- Queue and playlist management.
-- Customizable settings.
+- **High-Quality Audio:** Enjoy crystal-clear sound with superior audio quality.
+- **Bass Boost:** Add extra depth to your music with our bass boost feature.
+- **24/7 Mode:** Keep the music playing round the clock without interruptions.
+- **Advanced Commands:** Customize your music experience with a range of advanced commands.
+- **New Help Menu:** Easily navigate and find the information you need with our user-friendly help menu.
+- **Last.fm Scrobble Feature:** now connect your Last.fm account for automatic scrobbling whenever you play music.
+- **Spotify Feature:** Easily connect and disconnect your Spotify account using your Spotify ID
+- **Play Spotify Playlists:** Once connected, you can play your Spotify playlists directly through our music bot. Just select your playlist and enjoy the music seamlessly!
+
+### 🤔 Why choose Muse?
+
+- **Reliability:** Enjoy a stable and dependable music bot experience.
+- **Ease of Use:** Simple and intuitive commands make it easy to control your music.
+- **Community Support:** Join our vibrant community and get support whenever you need it.
+- **Regular Updates:** We continuously improve and add new features to elevate your music experience.
 
 Muse is constantly being developed with regular updates to always provide new features and improvements. Our support team responds quickly to resolve any issues.
 
-### :loudspeaker: **How to get started?**
+### 📍 How to get started?
 
-1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242&permissions=22013484328&scope=bot%20applications.commands)
-2. Join the voice channel and type the /play command!
+1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242)
+2. Use the /help command to see all available features and commands.
+3. Join the voice channel and type the /play command!
+4. Start enjoying your favorite tunes with high-quality playback and seamless control.
 
 Don't wait! Muse - your music bot on Discord. Playing music has never been easier!
