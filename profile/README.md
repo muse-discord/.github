@@ -21,7 +21,7 @@
 
 <hr>
 
-### <img src="https://musebot.pro/Logotype_small.png" alt="Logo" width="20" height="20"> Best Music Bot – Your Ultimate Music Companion
+### <img src="https://musebot.pro/Logotype_small.png" alt="Logo" width="20" height="16"> Best Music Bot – Your Ultimate Music Companion
 
 Welcome to Muse - the premier music bot for Discord servers, providing exceptional sound quality and an array of powerful features to enhance your listening experience.
 
