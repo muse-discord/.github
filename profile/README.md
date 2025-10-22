@@ -15,7 +15,7 @@
     <br />
     <a href="https://musebot.pro/">Our Website</a>
     ·
-    <a href="https://discord.gg/c8NaKXZb3g">Discord server</a>
+    <a href="https://discord.gg/bQYS8msaxS">Discord server</a>
   </p>
 </div>
 
