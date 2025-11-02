@@ -37,7 +37,7 @@ Muse is constantly being developed with regular updates to always provide new fe
 
 ### :loudspeaker: **How to get started?**
 
-1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242&permissions=22013484328&scope=bot%20applications.commands)
+1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fmusebot.pro%2Fthankyou&integration_type=0&scope=bot+guilds+applications.commands)
 2. Join the voice channel and type the /play command!
 
 Don't wait! Muse - your music bot on Discord. Playing music has never been easier!
