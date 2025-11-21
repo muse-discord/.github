@@ -47,7 +47,7 @@ Want music on your server? Muse is here! It's your new music bot that plays ever
 
 ### 📍 How to get started?
 
-1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242)
+1. [Add Muse to your server](https://discord.com/oauth2/authorize?client_id=1243281628680159242&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fmusebot.pro%2Fthankyou&integration_type=0&scope=bot+guilds+applications.commands)
 2. Use the /help command to see all available features and commands.
 3. Join the voice channel and type the /play command!
 4. Start enjoying your favorite tunes with high-quality playback and seamless control.
